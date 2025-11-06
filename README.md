@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/23386687/README.md)
 # 🎓 College ID Fine Management System
 
 A professional desktop GUI application built with Python Tkinter for managing college ID card fines and payments digitally.
